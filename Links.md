@@ -45,3 +45,4 @@ https://www.eea.europa.eu/data-and-maps/data/eea-coastline-for-analysis-2/gis-da
 https://gisco-services.ec.europa.eu/image/screen/home
 https://www.etemkeskin.com/index.php/2020/12/31/data-visualisation-on-top-of-choropleth-map-using-python-folium/
 https://github.com/StefanosFardellas/Covid-19-Europe-Tracker/tree/main/static/photos
+https://towardsdatascience.com/using-python-to-create-a-world-map-from-a-list-of-country-names-cd7480d03b10

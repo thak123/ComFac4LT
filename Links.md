@@ -29,3 +29,19 @@ https://plotly.com/python/choropleth-maps/
 https://www.google.com/search?q=choropleth+map+number+python&sxsrf=AJOqlzW1RrIFORcuOLZauHIlKAHCkL1Iaw%3A1678724245565&ei=lUwPZJ2RItHmkgXUuJeoCw&ved=0ahUKEwjdr9SSp9n9AhVRs6QKHVTcBbUQ4dUDCA8&uact=5&oq=choropleth+map+number+python&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB06CggAEEcQ1gQQsAM6CAgAEBYQHhAPOgUIABCGAzoFCCEQoAE6BAghEBU6BwghEKABEApKBAhBGABQ8QFY_gpgnQxoAXABeACAAYsBiAGVBpIBAzIuNZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp
 
 **https://towardsdatascience.com/a-beginners-guide-to-create-a-cloropleth-map-in-python-using-geopandas-and-matplotlib-9cc4175ab630**
+
+https://www.kaggle.com/code/nehaprabhavalkar/how-to-plot-map-of-india-using-python
+
+https://geopandas.org/en/stable/docs/user_guide/mapping.html
+_https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac
+_
+
+https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units
+
+https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries
+
+https://www.eea.europa.eu/data-and-maps/data/eea-coastline-for-analysis-2/gis-data/eea-coastline-polyline
+
+https://gisco-services.ec.europa.eu/image/screen/home
+https://www.etemkeskin.com/index.php/2020/12/31/data-visualisation-on-top-of-choropleth-map-using-python-folium/
+https://github.com/StefanosFardellas/Covid-19-Europe-Tracker/tree/main/static/photos

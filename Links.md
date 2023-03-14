@@ -46,3 +46,14 @@ https://gisco-services.ec.europa.eu/image/screen/home
 https://www.etemkeskin.com/index.php/2020/12/31/data-visualisation-on-top-of-choropleth-map-using-python-folium/
 https://github.com/StefanosFardellas/Covid-19-Europe-Tracker/tree/main/static/photos
 https://towardsdatascience.com/using-python-to-create-a-world-map-from-a-list-of-country-names-cd7480d03b10
+
+https://www.python-graph-gallery.com/choropleth-map/
+
+
+https://medium.com/geekculture/three-ways-to-plot-choropleth-map-using-python-f53799a3e623
+https://www.geeksforgeeks.org/choropleth-maps-using-plotly-in-python/
+https://geographicdata.science/book/notebooks/05_choropleth.html
+https://forum.freecodecamp.org/t/choropleth-map-data-missing-and-styling/422998
+https://github.com/altair-viz/altair/issues/2458
+https://stackoverflow.com/questions/70545639/problem-with-missing-values-in-altair-or-plotly-choropleth-map
+https://thedatafrog.com/en/articles/choropleth-maps-python/
